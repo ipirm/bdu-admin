@@ -1,0 +1,5 @@
+@import './base.css';
+
+.header {
+  background: linear-gradient(62.12deg,#def550 5.42%,#84e723 91.44%);
+}
